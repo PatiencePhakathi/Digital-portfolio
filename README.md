@@ -1,8 +1,9 @@
-# Digital-portfolio
-PRP370S Digital Portfolio - Work Readiness Training
-# Digital Portfolio – Work Readiness Training
+#  Welcome to my digital portfolio. 
+🎓 Hi, I’m Patience Phakathi – an ICT: Application Development student passionate about building impactful tech solutions.
 
-Welcome to my digital portfolio for the PRP370S Work Readiness Training assessment. This portfolio showcases key evidence and personal reflections on my journey to becoming career-ready.
+💡 This portfolio showcases my journey as a developer, including:
+
+Academic and personal projects (Java, Spring Boot, Flutter, MySQL)
 
 ## Contents
 
@@ -12,4 +13,9 @@ Welcome to my digital portfolio for the PRP370S Work Readiness Training assessme
 - [Create a CV](create-cv.md)
 - [CV Submission](cv-submission.md)
 
-> Created as part of the PRP370S module at CPUT.
+🛠️ I'm currently learning full-stack development and excited to grow into a professional software developer.
+🌍 Let’s connect and build the future together!
+
+
+
+
