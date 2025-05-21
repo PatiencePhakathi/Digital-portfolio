@@ -5,6 +5,8 @@
 
 Academic and personal projects (Java, Spring Boot, Flutter, MySQL)
 
+LinkedIn Certificates.
+
 ## Contents
 
 - [Career Counselling](career-counselling.md)
