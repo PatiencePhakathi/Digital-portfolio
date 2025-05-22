@@ -3,7 +3,7 @@
 Here is my professionally designed CV:
 ![create-cv](./assets/cac.png)
 ---
-![create-cv](./assets/cv.pdf)
+![create-cv](./assets/Patience+Phakathi_Curriculum+Vitae.pdf)
 ---
 ## 🌟 Reflection: Creating My CV
 
