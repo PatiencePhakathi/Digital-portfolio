@@ -1,9 +1,9 @@
-# Curriculum Vitae – Patience Phakathi
+# Creating a Curriculum Vitae – Patience Phakathi
 ### 📌 Evidence 
 Here is my professionally designed CV:
 ![create-cv](./assets/cac.png)
 ---
-![create-cv](./assets/Patience+Phakathi_Curriculum+Vitae.pdf)
+![create-cv](./assets/cv.pdf)
 ---
 ## 🌟 Reflection: Creating My CV
 
