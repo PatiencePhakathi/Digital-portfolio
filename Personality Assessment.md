@@ -1,5 +1,5 @@
 # Personality Assessment
-"insert image here"
+![Personality Assessments](./assets/pa.png)
 ---
 
 ## ✅ Evidence
