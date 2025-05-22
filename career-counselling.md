@@ -1,5 +1,5 @@
 # Career Counselling
-
+![Career counseling](./assets/cc.png)
 ---
 
 ## ✅ Evidence
