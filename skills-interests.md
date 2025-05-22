@@ -1,5 +1,6 @@
 # Skills and Interests
-"insert image here"
+![skills-interests](./assets/si.png)
+
 ---
 
 ## ✅ Evidence
