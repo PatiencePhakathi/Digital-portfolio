@@ -15,7 +15,7 @@
 - 📄 **Create a CV** (Evidence + Reflection)(create-cv.md)
 - 📤 **CV Submission** (Evidence + Reflection)(cv-submission.md)
 
-🤝 I’m open to:
+##🤝 I’m open to:
 - Collaborating on tech-for-good projects
 - Entry-level internship or developer roles
 - Sharing learning journeys with fellow students
@@ -26,4 +26,4 @@
 
 ## 💡 Fun Fact
 I'm fluent in "debug-ese" — it's the language of trial, error, and ultimate triumph 😄
-
+##
