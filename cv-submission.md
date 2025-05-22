@@ -1,5 +1,5 @@
 # CV Submission – Reflection (STAR Technique)
-![CV Submission Confirmation](./assets/Screenshot (28).png)
+![CV Submission Confirmation](./assets/cv-sub.png)
 
 ## 🌟 Reflection: Creating My CV
 
