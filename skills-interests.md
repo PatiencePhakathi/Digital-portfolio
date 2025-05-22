@@ -1,5 +1,5 @@
 # Skills and Interests
-yes
+"insert image here"
 ---
 
 ## ✅ Evidence
